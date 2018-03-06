@@ -1,0 +1,63 @@
+{
+    "app": {
+        "name": "项目管理",
+        "description": "Ng-zorro admin panel front-end framework"
+    },
+    "user": {
+        "name": "Admin",
+        "avatar": "./assets/img/zorro.svg",
+        "email": "cipchk@qq.com"
+    },
+    "menu": [
+        {
+            "text": "主导航",
+            "translate": "main_navigation",
+            "group": true,
+            "children": [
+                {
+                    "text": "快捷菜单",
+                    "translate": "shortcut",
+                    "icon": "icon-rocket",
+                    "shortcut_root": true,
+                    "hide": true,
+                    "children": []
+                },
+                {
+                    "text": "项目管理",
+                    "translate": "project",
+                    "link": "/project/project-list",
+                    "icon": "icon-grid",
+                    "acl": 100
+                },
+                {
+                    "text": "任务管理",
+                    "translate": "item",
+                    "link": "/item/item-list",
+                    "icon": "icon-note",
+                    "acl": 200
+                },
+                {
+                    "text": "用户管理",
+                    "translate": "user",
+                    "link": "/user/user-list",
+                    "icon": "icon-user",
+                    "acl": 300
+                },
+                {
+                    "text": "角色管理",
+                    "translate": "role",
+                    "link": "/role/role-list",
+                    "icon": "icon-key",
+                    "acl": 400
+                },
+                {
+                    "text": "我的任务",
+                    "translate": "myitem",
+                    "link": "/myitem/myitem-list",
+                    "icon": "icon-note",
+                    "acl": 500
+                }
+            ]
+        }
+    ]
+}
