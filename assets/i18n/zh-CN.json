@@ -101,8 +101,12 @@
     "project": "项目管理",
     "project-list": "项目列表",
     "project-detail": "项目详情",
+    "project-user": "设置用户",
     "item": "任务管理",
     "user": "用户管理",
     "role": "角色管理",
-    "myitem": "我的任务"
+    "myitem": "我的任务",
+    "mylog":"我的日志",
+    "underwayitem": "当前任务",
+    "favoriteitem": "任务关注"
 }
