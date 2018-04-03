@@ -1,7 +1,7 @@
 {
     "app": {
         "name": "项目管理",
-        "description": "Ng-zorro admin panel front-end framework"
+        "description": "项目管理"
     },
     "user": {
         "name": "Admin",
