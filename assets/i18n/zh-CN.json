@@ -109,5 +109,6 @@
     "mylog":"我的日志",
     "underwayitem": "当前任务",
     "favoriteitem": "任务关注",
-    "itemview": "任务概览"
+    "itemview": "任务概览",
+    "timestat": "时间统计"
 }

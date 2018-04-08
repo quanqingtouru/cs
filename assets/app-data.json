@@ -84,6 +84,13 @@
                     "link": "/itemview/item-list",
                     "icon": "icon-note",
                     "acl": 208
+                },
+                {
+                    "text": "时间统计",
+                    "i18n": "timestat",
+                    "link": "/timestat/work-list",
+                    "icon": "icon-note",
+                    "acl": 209
                 }
             ]
         }
