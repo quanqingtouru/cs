@@ -77,6 +77,13 @@
                     "link": "/underwayitem/item-list",
                     "icon": "icon-note",
                     "acl": 600
+                },
+                {
+                    "text": "任务概览",
+                    "i18n": "itemview",
+                    "link": "/itemview/item-list",
+                    "icon": "icon-note",
+                    "acl": 208
                 }
             ]
         }

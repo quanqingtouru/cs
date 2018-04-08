@@ -108,5 +108,6 @@
     "myitem": "我的任务",
     "mylog":"我的日志",
     "underwayitem": "当前任务",
-    "favoriteitem": "任务关注"
+    "favoriteitem": "任务关注",
+    "itemview": "任务概览"
 }
